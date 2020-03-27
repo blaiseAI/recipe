@@ -3,6 +3,12 @@ body {
     font-family: 'Playfair Display', serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+}
+
+.container {
+    min-width: 960px;
+    margin: 0 auto;
 }
 
 code {
